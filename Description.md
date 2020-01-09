@@ -7,9 +7,9 @@
 In recent years there has been a lot of focus on developing driver monitoring software for integration in passenger cars and other vehicles to facilitate better safety and other functions that improve the user experience. By studying a person’s posture and body movements, intelligent interior vehicle algorithms can draw conclusions about a person’s alertness, attention and focus. Tomorrow’s cabin sensing features will include detection of passenger position, safety belt status and forgotten objects, as well as enabling multimodal functionality such as deeper AI and mood recognition.So the car is able to seamlessly transfer control of the vehicle to an awake and able driver, call for help in a medical emergency, or offer to play the perfect song for the moment. </br>
 
 **Solution Approach:
-By Computer Vision**
+By Computer Vision** </br>
 
-1. Identification of the driver in order to allow the vehicle to automatically restore its preferences and settings.  </br>                           
+1.Identification of the driver in order to allow the vehicle to automatically restore its preferences and settings.  </br>                           
 
 2.Activity recognition: </br>
    2.1 Deep learning model for recognition of continuous driver’s activity. </br>
