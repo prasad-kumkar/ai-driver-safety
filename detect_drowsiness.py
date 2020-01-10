@@ -1,7 +1,3 @@
-# USAGE
-# python detect_drowsiness.py --shape-predictor shape_predictor_68_face_landmarks.dat
-# python detect_drowsiness.py --shape-predictor shape_predictor_68_face_landmarks.dat --alarm alarm.wav
-
 # import the necessary packages
 from scipy.spatial import distance as dist
 from imutils.video import VideoStream
