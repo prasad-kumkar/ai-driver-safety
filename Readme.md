@@ -80,10 +80,21 @@ AI/ Deep learning-based image processing for detecting the activity of the drive
 Fuzzy classifier to classify the driver’s state by scaling drowsiness, distraction, yawn, eye closure, and joy in real-time based on the threshold values. </br>
 
 # Usage:
-'''
-git clone repo
-'''
-Download 
+```
+git clone https://github.com/prasad-kumkar/ai-driver-safety.git
+```
+Download models, haarcascade files and shape predictor file and put it in main folder.
+Install required libraries:
+- opencv-python
+- dlib 
+- keras
+- imutils
+- tensorflow
+- keras 
+- numpy
+- pygame
+``` pip install opencv-python dlib keras imutils numpy pygame
+```
 ## Face landmarks:
 Use of deep learning library **dlib's facial landmark predictor**
 <img>
