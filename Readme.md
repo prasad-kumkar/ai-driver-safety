@@ -7,7 +7,7 @@ AI based computer Vision:
 In recent years there has been a lot of focus on developing driver monitoring software for integration in passenger cars and other vehicles to facilitate better safety and other functions that improve the user experience. By studying a person’s posture and body movements, intelligent interior vehicle algorithms can draw conclusions about a person’s alertness, attention and focus. Tomorrow’s cabin sensing features will include detection of passenger position, safety belt status and forgotten objects, as well as enabling multimodal functionality such as deeper AI and mood recognition.So the car is able to seamlessly transfer control of the vehicle to an awake and able driver, call for help in a medical emergency, or offer to play the perfect song for the moment. </br>
 
 ## Solution Approach:
-By Computer Vision** </br>
+By Computer Vision</br>
 
 1.Identification of the driver in order to allow the vehicle to automatically restore its preferences and settings.  </br>                           
 
@@ -28,12 +28,13 @@ By Computer Vision** </br>
 
 6.After detection of the driver’s fatigue while driving, the driver can be alerted with special sensors or an electric impulse bracelet. </br>
 
-### Driving Style Classifier-AI**:The Driving style is simply analyzed by computational methodologies (Artificial Intelligence) and applied computing of transportation. </br>
+### Driving Style Classifier-AI:
+The Driving style is simply analyzed by computational methodologies (Artificial Intelligence) and applied computing of transportation. </br>
 
-#### Implementations of all Classifications Usinh Fuzzy Logic model**
+#### Implementations of all Classifications Usinh Fuzzy Logic model
 Fuzzy Logic Model-A branch of Artificial Intelligence (AI), which will characterize the uncertainty in the data by adding truth and false concepts from common logic to a machine-generated model. </br>
 
-#### Aggressive Driving Style Criteria: (Input Variables)** </br>
+#### Aggressive Driving Style Criteria: (Input Variables)
 
 1.Sudden Accelerations or Decelerations </br>
 2.Sudden Braking </br>
