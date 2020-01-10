@@ -1,6 +1,5 @@
 # Deep Learning based driver monitoring system (activity & object recognition)
 **Submission for**: Mercedes Benz Digital Challenge : Team Big Brains</br>
-**Name of College**: VELLORE INSTITUTE OF TECHNOLOGY , VELLORE</br>
 **Name of Team Members**:Prasad Kumkar, Tanishq Agrawal </br>
 **Theme of the Challenge**:Deep Learning based driver monitoring system (activity & object recognition) </br>
 ## Problem Statement
@@ -65,7 +64,7 @@ Our solution is a combination of three different approaches, which increases acc
 Most solutions being tested are based on just image processing. Combining computer vision, driving style, and heartbeat analysis and testing them has not been tried before. 
  </br>
 
-### Implementation Plan**:
+### Implementation Plan:
 Implementation is divided into the following parts: </br>
 
 1.Data acquisition :
@@ -80,7 +79,35 @@ AI/ Deep learning-based image processing for detecting the activity of the drive
 4.Classification:
 Fuzzy classifier to classify the driver’s state by scaling drowsiness, distraction, yawn, eye closure, and joy in real-time based on the threshold values. </br>
 
+# Usage:
+'''
+git clone repo
+'''
+Download 
+## Face landmarks:
+Use of deep learning library **dlib's facial landmark predictor**
+<img>
+## Eye blinking counter
+Detection of eye blinks and if more frequent eye blinks are detected, then play an alarm.
+<img>
 
+## Drowsiness Detection
+Use of opencv and dlib library to detect and 
+Deep learning algorithm to detect the driver's drowsiness in real time and play alarm sound if eyes are being closed for more than given frames.
+```
+python drowsiness_detection.py
+```
+## Activity Recognition : Yawning
+Detection of yawn by analysing facial landmarks of mouth and eyes.
+```
+python yawn.py
+```
+
+## Mood/Emotion recognition
+Use of tensorflow library and training model to classify mood/emotion in real time.
+```
+python mood_recognition.py
+```
 
 
 
