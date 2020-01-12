@@ -98,10 +98,14 @@ Install required libraries:
 ```
 ## Face landmarks:
 Use of deep learning library **dlib's facial landmark predictor**
-<img>
+![WhatsApp Image 2020-01-12 at 20 23 16](https://user-images.githubusercontent.com/6639329/72222451-ce3bb580-358a-11ea-8211-3e8fbb8c4209.jpeg)
+
+
 ## Eye blinking counter
 Detection of eye blinks and if more frequent eye blinks are detected, then play an alarm.
-<img>
+
+![WhatsApp Image 2020-01-12 at 20 22 25](https://user-images.githubusercontent.com/6639329/72222428-96cd0900-358a-11ea-9737-4edba38e4258.jpeg)
+
 
 ## Drowsiness Detection
 Use of opencv and dlib library to detect and 
@@ -109,18 +113,27 @@ Deep learning algorithm to detect the driver's drowsiness in real time and play 
 ```
 python drowsiness_detection.py
 ```
+![WhatsApp Image 2020-01-12 at 20 20 15](https://user-images.githubusercontent.com/6639329/72222060-b3ffd880-3586-11ea-93c0-ca9426d26e80.jpeg)
+
+![WhatsApp Image 2020-01-12 at 20 28 45](https://user-images.githubusercontent.com/6639329/72222394-3938bc80-358a-11ea-9ef9-475411b69c47.jpeg)
+
 ## Activity Recognition : Yawning
 Detection of yawn by analysing facial landmarks of mouth and eyes.
 ```
 python yawn.py
 ```
+![WhatsApp Image 2020-01-12 at 20 26 43](https://user-images.githubusercontent.com/6639329/72222408-4f467d00-358a-11ea-99c9-237b0721bcfe.jpeg)
+
+![WhatsApp Image 2020-01-12 at 20 27 40](https://user-images.githubusercontent.com/6639329/72222409-57062180-358a-11ea-9d9a-42e920dbf805.jpeg)
 
 ## Mood/Emotion recognition
 Use of tensorflow library and training model to classify mood/emotion in real time.
 ```
 python mood_recognition.py
 ```
+![WhatsApp Image 2020-01-12 at 20 24 18](https://user-images.githubusercontent.com/6639329/72222368-f2e35d80-3589-11ea-9958-5f71e2bd6bb0.jpeg)
 
+![WhatsApp Image 2020-01-12 at 20 24 45](https://user-images.githubusercontent.com/6639329/72222381-11495900-358a-11ea-8b1b-c82f9426d08e.jpeg)
 
 
 
