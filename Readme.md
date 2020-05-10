@@ -1,7 +1,6 @@
 # Deep Learning based driver monitoring system (activity & object recognition)
-**Submission for**: Mercedes Benz Digital Challenge : Team Big Brains</br>
-**Name of Team Members**:Prasad Kumkar, Tanishq Agrawal </br>
-**Theme of the Challenge**:Deep Learning based driver monitoring system (activity & object recognition) </br>
+
+**Theme**:Deep Learning based driver monitoring system (activity & object recognition) </br>
 ## Problem Statement
 AI based computer Vision:
 In recent years there has been a lot of focus on developing driver monitoring software for integration in passenger cars and other vehicles to facilitate better safety and other functions that improve the user experience. By studying a person’s posture and body movements, intelligent interior vehicle algorithms can draw conclusions about a person’s alertness, attention and focus. Tomorrow’s cabin sensing features will include detection of passenger position, safety belt status and forgotten objects, as well as enabling multimodal functionality such as deeper AI and mood recognition.So the car is able to seamlessly transfer control of the vehicle to an awake and able driver, call for help in a medical emergency, or offer to play the perfect song for the moment. </br>
