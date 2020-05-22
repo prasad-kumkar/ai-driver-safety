@@ -1,12 +1,11 @@
 # Deep Learning based driver monitoring system (activity & object recognition)
 
-**Theme**:Deep Learning based driver monitoring system (activity & object recognition) </br>
-## Problem Statement
-AI based computer Vision:
+## Problem 
 In recent years there has been a lot of focus on developing driver monitoring software for integration in passenger cars and other vehicles to facilitate better safety and other functions that improve the user experience. By studying a person’s posture and body movements, intelligent interior vehicle algorithms can draw conclusions about a person’s alertness, attention and focus. Tomorrow’s cabin sensing features will include detection of passenger position, safety belt status and forgotten objects, as well as enabling multimodal functionality such as deeper AI and mood recognition.So the car is able to seamlessly transfer control of the vehicle to an awake and able driver, call for help in a medical emergency, or offer to play the perfect song for the moment. </br>
 
 ## Solution Approach:
-By Computer Vision</br>
+
+### By Computer Vision</br>
 
 1.Identification of the driver in order to allow the vehicle to automatically restore its preferences and settings.  </br>                           
 
@@ -30,10 +29,10 @@ By Computer Vision</br>
 ### Driving Style Classifier-AI:
 The Driving style is simply analyzed by computational methodologies (Artificial Intelligence) and applied computing of transportation. </br>
 
-#### Implementations of all Classifications Usinh Fuzzy Logic model
+##### Implementations of all Classifications Using Fuzzy Logic model
 Fuzzy Logic Model-A branch of Artificial Intelligence (AI), which will characterize the uncertainty in the data by adding truth and false concepts from common logic to a machine-generated model. </br>
 
-#### Aggressive Driving Style Criteria: (Input Variables)
+##### Aggressive Driving Style Criteria: (Input Variables)
 
 1.Sudden Accelerations or Decelerations </br>
 2.Sudden Braking </br>
@@ -45,7 +44,7 @@ Fuzzy Logic Model-A branch of Artificial Intelligence (AI), which will character
 8.Number of Aggressive Honking </br>
 9.Number of Wrong side Overtaking  </br>
 
-#### Steps Involved
+##### Steps Involved
 1.Fuzzification: </br>
     This stage defines the membership functions and linguistic variables of the inputs.
 
@@ -55,14 +54,14 @@ Fuzzy Logic Model-A branch of Artificial Intelligence (AI), which will character
 3.Defuzzification:  
    The final conversion of the inputs to crisp results. </br>
 
-#### Threshold Criteria:
+##### Threshold Criteria:
 (to be set for all classifications)
 Example- the Threshold for harsh accelerations and decelerations has to be decided in by the System In accordance with the type of Road it is running on For example a city road or a state Highway or a National Highway. Because the speed limits will be different. </br>
 
 ### Novelty:
 Our solution is a combination of three different approaches, which increases accuracy. This is a more intuitive use of the new generation of driver assistance functions. 
 Most solutions being tested are based on just image processing. Combining computer vision, driving style, and heartbeat analysis and testing them has not been tried before. 
- </br>
+</br>
 
 ### Implementation Plan:
 Implementation is divided into the following parts: </br>
@@ -133,12 +132,3 @@ python mood_recognition.py
 ![WhatsApp Image 2020-01-12 at 20 24 18](https://user-images.githubusercontent.com/6639329/72222368-f2e35d80-3589-11ea-9958-5f71e2bd6bb0.jpeg)
 
 ![WhatsApp Image 2020-01-12 at 20 24 45](https://user-images.githubusercontent.com/6639329/72222381-11495900-358a-11ea-8b1b-c82f9426d08e.jpeg)
-
-
-
-
-
-
-
-
-
